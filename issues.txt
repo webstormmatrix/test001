@@ -1,1 +1,2 @@
-this is still a useless file meant only to test the functionality of some stuff, cheers.
+this is still a useless file meant only to test the functionality of some stuff, cheers. so ive extended the file for some more test just working for God's sake git.
+
